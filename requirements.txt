@@ -1,0 +1,13 @@
+pandas
+pandas_ta
+fastapi
+uvicorn
+jinja2
+requests
+pyinstaller
+websocket-client
+pyquotex
+python-dotenv
+scikit-learn
+xgboost
+joblib
